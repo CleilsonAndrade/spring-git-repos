@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "github.api.base-url",
+      "type": "java.lang.String",
+      "description": "A description for 'github.api.base-url'"
+    }
+  ]
+}
